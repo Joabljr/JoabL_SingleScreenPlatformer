@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Block
   layers:
   - Default
   - TransparentFX
@@ -11,10 +12,10 @@ TagManager:
   - ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Bullet
+  - Player
+  - Platforms
+  - EnemyBullet
   - 
   - 
   - 
